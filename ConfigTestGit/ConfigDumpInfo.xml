@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.19">
+	<ConfigVersions>
+		<Metadata name="Catalog.Договоры" id="7c54b5f8-cee9-48b3-9cb3-91899d8fa2fc" configVersion="915cb84758f5a7449377021ac692ac2f00000000">
+			<Metadata name="Catalog.Договоры.Attribute.Комментарий" id="27175781-8110-4622-a094-84d3a6044aa2"/>
+			<Metadata name="Catalog.Договоры.Attribute.ПризнакБессрочногоДоговора" id="3006e61c-8355-4cc4-b2be-70d53b560109"/>
+			<Metadata name="Catalog.Договоры.Attribute.ДатаЗаключения" id="70a08989-7435-48f3-b1d4-6b8ef05cc1d1"/>
+			<Metadata name="Catalog.Договоры.Attribute.НомерДоговора" id="e2b6e9f4-bacd-4518-a912-b9016921f6dd"/>
+			<Metadata name="Catalog.Договоры.Attribute.СрокДействия" id="fe6ea928-b2a7-4152-b571-25235e6a3898"/>
+		</Metadata>
+		<Metadata name="Catalog.ДолжностиСотрудников" id="5bef849b-ce48-466d-ac6d-f72632af61bc" configVersion="ba94d0a09119fb41bbff5e865e8d858c00000000"/>
+		<Metadata name="Catalog.ИсточникиИнформации" id="5b0a9256-83a3-44f8-9776-aa9e974fc478" configVersion="c8156397735eec4bbc4503dda98ab21f00000000"/>
+		<Metadata name="Catalog.ИсточникиИнформации.Predefined" id="5b0a9256-83a3-44f8-9776-aa9e974fc478.1c" configVersion="c469f6d340d40a4bbbc213dbc3787fdd00000000"/>
+		<Metadata name="Catalog.Контрагенты" id="cfb0fb75-d3e1-475d-98e6-883e1595050e" configVersion="f34eda90e6d8974580005ab4596cb52500000000">
+			<Metadata name="Catalog.Контрагенты.TabularSection.Питомцы.Attribute.КличкаПитомца" id="2a4b3204-dce3-441d-b223-94c4add29d2a"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.Комментарий" id="5b4a0d22-499a-4367-bd2c-2462961f7136"/>
+			<Metadata name="Catalog.Контрагенты.TabularSection.Питомцы.Attribute.ВидПитомца" id="5ba15685-7ffa-48a3-a534-5207bc4314dd"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.Источник" id="76c8f39f-f10a-4b57-8a10-62ae730eb410"/>
+			<Metadata name="Catalog.Контрагенты.TabularSection.Питомцы.Attribute.ПородаПитомца" id="8efe6b31-93b7-4546-94e7-8adabfb4847f"/>
+			<Metadata name="Catalog.Контрагенты.TabularSection.Питомцы" id="8fa2d815-0029-4d52-b2d1-8f9e21bbf790"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ДатаРождения" id="9004e99b-404c-4341-a1ab-fa4fc9331789"/>
+			<Metadata name="Catalog.Контрагенты.TabularSection.Питомцы.Attribute.ДатаРожденияПитомца" id="927801de-0e91-47d6-a3a1-9411a4034264"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ТипКонтрагента" id="b082fc12-af32-41d8-b5a4-5f2ba0805283"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.Пол" id="e79dda9f-c789-4cf9-9395-32dd3cce9406"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ОсновнойДоговор" id="e958db07-bd38-4cad-88b4-9d6f78c4dd84"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.КонтактныйТелефон" id="fa59c587-9026-4f0d-9fbf-9f602f56f370"/>
+		</Metadata>
+		<Metadata name="Catalog.Контрагенты.Predefined" id="cfb0fb75-d3e1-475d-98e6-883e1595050e.1c" configVersion="4514ed1153bd54448491b770da234ba500000000"/>
+		<Metadata name="Catalog.Номенклатура" id="d5c303df-6654-440b-b9c2-2392eaef189c" configVersion="401a8566dc4de84a97237908e7349db600000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="84ea0d60-65b9-4156-bc55-49c7926e10cd"/>
+		</Metadata>
+		<Metadata name="Catalog.Организации" id="d3c5b51f-bc99-437a-91ff-4f862e3dcacc" configVersion="57af44430d724740979b6b738ce505d500000000">
+			<Metadata name="Catalog.Организации.Attribute.ИНН" id="094db51b-4028-4a66-902b-0fb9b73655a2"/>
+			<Metadata name="Catalog.Организации.Attribute.ТипОрганизации" id="1aadd254-d09f-4c48-bdc8-a441dfa4eb92"/>
+			<Metadata name="Catalog.Организации.Attribute.ДолжностьРуководителя" id="b150dde3-5fd6-4e00-8c94-cb065d8615f6"/>
+			<Metadata name="Catalog.Организации.Attribute.Руководитель" id="c4f51637-8b34-4fe0-9059-13d8f2fcfc14"/>
+			<Metadata name="Catalog.Организации.Attribute.ГлавныйБухгалтер" id="fb9285d0-8349-4921-991e-60219df06c3d"/>
+		</Metadata>
+		<Metadata name="Catalog.Пользователи" id="0db58c68-3244-4741-b365-90c8f21c677e" configVersion="4c07beeec1b19d49b8e1d8fe61f55d1a00000000"/>
+		<Metadata name="Catalog.ПородыПитомцев" id="0a1c89ef-8ad8-4755-8cce-832ff6c35900" configVersion="4cbe9a60fb6cd148a0c7104b43451fbf00000000">
+			<Metadata name="Catalog.ПородыПитомцев.Attribute.ВидПитомца" id="9324840e-96ec-45a3-8ffe-8031163c448a"/>
+		</Metadata>
+		<Metadata name="Catalog.ПородыПитомцев.Predefined" id="0a1c89ef-8ad8-4755-8cce-832ff6c35900.1c" configVersion="e6d2790252af6e4abff767b40f4a70d300000000"/>
+		<Metadata name="Catalog.Склады" id="30cd81a3-3ebe-4fb0-a4d8-34b00b3c9a18" configVersion="45ef878d7c54b8489ded90acba2a799900000000"/>
+		<Metadata name="Catalog.Сотрудники" id="d6b32fc5-4ea3-4d78-b537-903de46b6a3b" configVersion="5b550fe7df33534abea4bf369de1a62300000000">
+			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="187134ff-f1ee-43ea-a86e-bf41ff981710"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="228864dd-438f-42c2-9362-e164f32189e5"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Должность" id="3a648b16-aea4-4a86-b36d-6ddbbfa7db29"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Пол" id="467b4dd5-a832-468d-8bc1-351b841b4328"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Имя" id="4a558225-357d-473f-9142-1d5dfbb6d196"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.ДатаРождения" id="6d4055ce-1271-40f9-a3f6-cec37a5168b1"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Фамилия" id="a658a595-9834-4be8-92f2-d5d76ebc5727"/>
+		</Metadata>
+		<Metadata name="Configuration.ГрумингСалон" id="b489a22e-a1f2-4e57-80ec-2c8ed2ecdd92" configVersion="046f627ee0fb9d4ca7459cd5422179b800000000"/>
+		<Metadata name="DefinedType.КолличественныйТип" id="66265b4e-a01a-40fc-bfb9-1f646d78eeca" configVersion="2bbddbb2759a794493c3708994a5877f00000000"/>
+		<Metadata name="DefinedType.СуммовойТип" id="28e74cad-9e61-485e-9999-e318193b0ef1" configVersion="6cafbe1de395ca4da9e1bee1af9bd79e00000000"/>
+		<Metadata name="Document.ЗаписьКлиента" id="e09e2219-7bcd-48ab-8e1e-b7f85446aead" configVersion="dbf5637ba6ef564ba86663092ef745bb00000000">
+			<Metadata name="Document.ЗаписьКлиента.Attribute.Клиент" id="08d13050-9171-4667-aca3-99039e2ea8dd"/>
+			<Metadata name="Document.ЗаписьКлиента.Attribute.Сотрудник" id="11b31586-ade7-4c4c-92d9-3aa618c3121d"/>
+			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Услуга" id="13500ac7-84cc-492e-91fd-b6cbce32085b"/>
+			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Стоимость" id="5ac4b5fa-2629-4dfa-95ba-76bc8d210705"/>
+			<Metadata name="Document.ЗаписьКлиента.Attribute.Ответственный" id="632349e3-aa89-4ea6-8ee8-24689fe570c8"/>
+			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги" id="82d1f9ae-cac3-43b4-8116-3e2020b5cb31"/>
+			<Metadata name="Document.ЗаписьКлиента.Attribute.Комментарий" id="a65c8333-2e5b-4fe6-83ad-b6e15c10fbad"/>
+			<Metadata name="Document.ЗаписьКлиента.Attribute.ДатаЗаписи" id="fb5659a1-5648-408e-9585-c83ee70680e5"/>
+		</Metadata>
+		<Metadata name="Enum.ВидыПитомцев" id="4825b074-3efa-4a6f-91b3-76357640e94d" configVersion="983c074c82459845a499a2cd66387d5b00000000">
+			<Metadata name="Enum.ВидыПитомцев.EnumValue.Собака" id="ebae2693-6c25-4d1b-aec6-bc2976d2cca7"/>
+			<Metadata name="Enum.ВидыПитомцев.EnumValue.Кошка" id="f33a5b79-a38c-4220-ab41-97880938814f"/>
+		</Metadata>
+		<Metadata name="Enum.ПолФИзическогоЛица" id="e3815009-d5c5-427d-a10e-63b92151ae6d" configVersion="94ace001ecf670419d8d2b5961c7a15200000000">
+			<Metadata name="Enum.ПолФИзическогоЛица.EnumValue.Женский" id="215a289f-a085-4d29-8fea-1fa8d514bd01"/>
+			<Metadata name="Enum.ПолФИзическогоЛица.EnumValue.Мужской" id="3a1a3415-8d90-43bb-ae5e-bf1ea71c1d00"/>
+		</Metadata>
+		<Metadata name="Enum.ТипыКонтрагента" id="cc607236-5733-451d-927c-027caebfe8eb" configVersion="5f8fe5998037be4e88f84da6351fdc4e00000000">
+			<Metadata name="Enum.ТипыКонтрагента.EnumValue.Клиент" id="30de3275-bb27-4e02-a6ae-65a7e66ecded"/>
+			<Metadata name="Enum.ТипыКонтрагента.EnumValue.Поставщик" id="41eb1f93-d6cd-4843-a2bd-fd7fa101c4f0"/>
+		</Metadata>
+		<Metadata name="Enum.ТипыНоменклатуры" id="fcaedf20-e5c4-4161-9417-6fc8492430e9" configVersion="30aa7df5e443aa4786ecb8f33c42ecb200000000">
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Услуга" id="52d22035-61f4-49ac-806a-39cd1fde1c46"/>
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Материал" id="55d2a088-bf13-4432-b39c-f3ab3d4195d7"/>
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Товар" id="a994c2a3-3455-4202-80fe-56a8b87de50e"/>
+		</Metadata>
+		<Metadata name="Enum.ТипыОрганизации" id="0906e051-102d-41d3-8e4d-66946155f8c9" configVersion="a2b7f926f1c1624eabde52a9dafaa1b800000000">
+			<Metadata name="Enum.ТипыОрганизации.EnumValue.ИндивидуальныйПредприниматель" id="596c8e9e-909d-4045-b96f-7e2bbadc1867"/>
+			<Metadata name="Enum.ТипыОрганизации.EnumValue.ЮридическоеЛицо" id="e015dd9f-d392-447b-ac5d-7a617f860ee5"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="4888513c-230b-4e6f-9a85-4cda54fb1082" configVersion="de94a8468597954e8f56c3a69bc5169600000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
