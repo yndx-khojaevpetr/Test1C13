@@ -54,7 +54,7 @@
 		<Metadata name="Configuration.ГрумингСалон" id="b489a22e-a1f2-4e57-80ec-2c8ed2ecdd92" configVersion="046f627ee0fb9d4ca7459cd5422179b800000000"/>
 		<Metadata name="DefinedType.КолличественныйТип" id="66265b4e-a01a-40fc-bfb9-1f646d78eeca" configVersion="2bbddbb2759a794493c3708994a5877f00000000"/>
 		<Metadata name="DefinedType.СуммовойТип" id="28e74cad-9e61-485e-9999-e318193b0ef1" configVersion="6cafbe1de395ca4da9e1bee1af9bd79e00000000"/>
-		<Metadata name="Document.ЗаписьКлиента" id="e09e2219-7bcd-48ab-8e1e-b7f85446aead" configVersion="dbf5637ba6ef564ba86663092ef745bb00000000">
+		<Metadata name="Document.ЗаписьКлиента" id="e09e2219-7bcd-48ab-8e1e-b7f85446aead" configVersion="52d8825f5fca10428f0bf7d95bcef48500000000">
 			<Metadata name="Document.ЗаписьКлиента.Attribute.Клиент" id="08d13050-9171-4667-aca3-99039e2ea8dd"/>
 			<Metadata name="Document.ЗаписьКлиента.Attribute.Сотрудник" id="11b31586-ade7-4c4c-92d9-3aa618c3121d"/>
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Услуга" id="13500ac7-84cc-492e-91fd-b6cbce32085b"/>
@@ -64,6 +64,7 @@
 			<Metadata name="Document.ЗаписьКлиента.Attribute.Комментарий" id="a65c8333-2e5b-4fe6-83ad-b6e15c10fbad"/>
 			<Metadata name="Document.ЗаписьКлиента.Attribute.ДатаЗаписи" id="fb5659a1-5648-408e-9585-c83ee70680e5"/>
 		</Metadata>
+		<Metadata name="Document.ЗаписьКлиента.ObjectModule" id="e09e2219-7bcd-48ab-8e1e-b7f85446aead.0" configVersion="34466e08f3a2154392eb4d24829c424000000000"/>
 		<Metadata name="Enum.ВидыПитомцев" id="4825b074-3efa-4a6f-91b3-76357640e94d" configVersion="983c074c82459845a499a2cd66387d5b00000000">
 			<Metadata name="Enum.ВидыПитомцев.EnumValue.Собака" id="ebae2693-6c25-4d1b-aec6-bc2976d2cca7"/>
 			<Metadata name="Enum.ВидыПитомцев.EnumValue.Кошка" id="f33a5b79-a38c-4220-ab41-97880938814f"/>
